@@ -13,26 +13,46 @@ color: #FF7700;
 
     ul{
         list-style: none;
-        margin: 0px;
+        margin-bottom: 50px;
         padding-left: 0px;
     }
 
     a{
     color: #ff1476;
     text-decoration: none;
-    text-align: initial;
+
+}
+
+strong{
+    color:#2f90d1;
     
 }
 
-strong{color:#2f90d1;}
-
 img{
+    
     border-radius: 100%;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit:cover;
+    margin-bottom: 50px;
 }
 
-#titulo{
-    position: static;
+p{
+    margin-bottom: 50px;
+}
+
+.titulo{
+    width: 400px;
+    margin: auto;
+    padding: 40px;
+}
+
+.navegacao{
+    display: inline;
+    padding: 10px;
+}
+
+#links{
+    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
